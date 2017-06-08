@@ -506,7 +506,7 @@ print 'Iniciando Relatorio...'
 
 # Read .csv data
 print 'Lendo dados de ligacoes...'
-df_call = pd.read_csv(FILE_LOCATION[2])
+df_call = pd.read_csv(FILE_LOCATION[11])
 # df_call = pd.read_csv(sys.argv[1])
 # print 'Lendo banco de numeros...'
 # df_db = pd.read_csv(DB_LOCATION)
@@ -601,9 +601,9 @@ plt.ylim(Y_LIM['day_plot'])
 plt.title('Minutos Diarios', fontsize=20)
 plt.ylabel('Minutos', fontsize=16)
 plt.xlabel('Dias', fontsize=16, verticalalignment='top', horizontalalignment='center')
+plt.text(0, 601, output_pdf_name)
 bars = ax.patches
 # Center bar values:
-plt.text(0, 601, output_pdf_name)
 for bar in bars:
     if bar.get_height() > 0:
         ax.text(bar.get_x() + bar.get_width() / 2.0,
@@ -667,7 +667,7 @@ plt.ylim(Y_LIM['cost_plot'])
 plt.title('Custo Por Rota', fontsize=20)
 plt.ylabel('Valor', fontsize=16)
 plt.xlabel('Rotas de Saida', fontsize=16)
-plt.text(0, 3001, output_pdf_name)
+plt.text(0, 201, output_pdf_name)
 # Center bar values:
 bars = ax.patches
 for bar in bars:
@@ -689,7 +689,7 @@ plt.ylim(Y_LIM['destination_plot'])
 plt.title('Minutos Por Destino', fontsize=20)
 plt.ylabel('Minutos', fontsize=16)
 plt.xlabel('Tipo de Numero', fontsize=16)
-plt.text(0, 201, output_pdf_name)
+plt.text(0, 3001, output_pdf_name)
 # Center bar values:
 bars = ax.patches
 for bar in bars:
