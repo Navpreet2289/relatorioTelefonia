@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd5be706-ff0b-4599-901d-9a2bdc435720" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="relatorioTelefonia.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="515" column="66" lean-forward="true" selection-start-line="515" selection-start-column="66" selection-end-line="515" selection-end-column="66" />
+              <folding>
+                <element signature="e#23#52#0" expanded="true" />
+                <element signature="e#581#729#0" expanded="false" />
+                <element signature="e#746#950#0" expanded="false" />
+                <element signature="e#952#981#0" expanded="false" />
+                <element signature="e#1164#1625#0" expanded="false" />
+                <element signature="e#1904#1911#0" expanded="false" />
+                <element signature="e#2103#2642#0" expanded="false" />
+                <element signature="e#3491#4016#0" expanded="false" />
+                <element signature="e#4038#8416#0" expanded="false" />
+                <element signature="e#8549#8766#0" expanded="false" />
+                <element signature="e#8785#8940#0" expanded="false" />
+                <element signature="e#8968#11762#0" expanded="false" />
+                <element signature="e#11764#11784#0" expanded="false" />
+                <element signature="e#12082#12750#0" expanded="false" />
+                <element signature="e#12887#14911#0" expanded="false" />
+                <element signature="e#15023#22604#0" expanded="false" />
+                <element signature="e#22663#23865#0" expanded="false" />
+                <element signature="e#23928#24071#0" expanded="false" />
+                <element signature="e#24913#24933#0" expanded="false" />
+                <element signature="e#25750#25780#0" expanded="false" />
+                <element signature="e#30827#30961#0" expanded="false" />
+                <element signature="e#31052#31061#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>string</find>
+      <find>_string</find>
+      <find>PATTERN_EXTENSION</find>
+      <find>find</find>
+      <find>ReturnCodes</find>
+      <find>tig</find>
+      <find>duration</find>
+      <find>'dstPlace'</find>
+      <find>groupTrunkMinutes</find>
+      <find>Interna</find>
+      <find>figDestinationMinutes</find>
+      <find>route_plot</find>
+      <find>p</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Billsec</replace>
+      <replace>billsec</replace>
+      <replace>'callType'</replace>
+      <replace>NUMERO 1 DIGITO</replace>
+      <replace>group_trunk_minutes</replace>
+      <replace>fig_destination_minutes</replace>
+      <replace>value</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/usr/lib/python2.7/dist-packages/gtk-2.0/gtk/__init__.py" />
+        <option value="$PROJECT_DIR$/regexTester.py" />
+        <option value="$PROJECT_DIR$/possibilities.py" />
+        <option value="$PROJECT_DIR$/relatorioTelefonia.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1375" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPackageRequirementsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/dictionaries" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="telefonia" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="telefonia" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.relatorioTelefonia">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="possibilities" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/possibilities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="regexTester" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regexTester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="relatorioTelefonia" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telefonia" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relatorioTelefonia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.possibilities" />
+      <item index="1" class="java.lang.String" itemvalue="Python.regexTester" />
+      <item index="2" class="java.lang.String" itemvalue="Python.relatorioTelefonia" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$PROJECT_DIR$/.idea/dictionaries" Dictionaries="0" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd5be706-ff0b-4599-901d-9a2bdc435720" name="Default" comment="" />
+      <created>1494606912201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494606912201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1375" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1256584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17683686" sideWeight="0.50564337" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20897436" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31527627" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31923077" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46153846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17683686" sideWeight="0.50564337" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53846157" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31527627" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31923077" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11940298" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44230768" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/axes/_axes.py" />
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31680">
+          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_celular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="78" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_fixo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bloqueio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_celular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_fixo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bloqueio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_fixo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/resultado_celular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="78" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bloqueio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/bs4/__init__.py" />
+    <entry file="file:///usr/lib/python2.7/dist-packages/gtk-2.0/gtk/__init__.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/matplotlib/axis.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/container.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/axes/_axes.py" />
+    <entry file="file://$PROJECT_DIR$/regexTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/possibilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="515" column="66" lean-forward="true" selection-start-line="515" selection-start-column="66" selection-end-line="515" selection-end-column="66" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#581#729#0" expanded="false" />
+            <element signature="e#746#950#0" expanded="false" />
+            <element signature="e#952#981#0" expanded="false" />
+            <element signature="e#1164#1625#0" expanded="false" />
+            <element signature="e#1904#1911#0" expanded="false" />
+            <element signature="e#2103#2642#0" expanded="false" />
+            <element signature="e#3491#4016#0" expanded="false" />
+            <element signature="e#4038#8416#0" expanded="false" />
+            <element signature="e#8549#8766#0" expanded="false" />
+            <element signature="e#8785#8940#0" expanded="false" />
+            <element signature="e#8968#11762#0" expanded="false" />
+            <element signature="e#11764#11784#0" expanded="false" />
+            <element signature="e#12082#12750#0" expanded="false" />
+            <element signature="e#12887#14911#0" expanded="false" />
+            <element signature="e#15023#22604#0" expanded="false" />
+            <element signature="e#22663#23865#0" expanded="false" />
+            <element signature="e#23928#24071#0" expanded="false" />
+            <element signature="e#24913#24933#0" expanded="false" />
+            <element signature="e#25750#25780#0" expanded="false" />
+            <element signature="e#30827#30961#0" expanded="false" />
+            <element signature="e#31052#31061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

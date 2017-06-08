@@ -1,0 +1,624 @@
+DDD,CIDADES,ESTADO
+11,Aruja,SP
+11,Barueri,SP
+11,Biritiba-Mirim,SP
+11,Cabreuva,SP
+11,Caieiras,SP
+11,Cajamar,SP
+11,Campo Limpo Paulista,SP
+11,Carapicuiba,SP
+11,Cotia,SP
+11,Diadema,SP
+11,Embu,SP
+11,Embu-Guaçu,SP
+11,Ferraz de Vasconcelos,SP
+11,Francisco Morato,SP
+11,Franco da Rocha,SP
+11,Guararema,SP
+11,Guarulhos,SP
+11,Itapecerica da Serra,SP
+11,Itapevi,SP
+11,Itaquaquecetuba,SP
+11,Itupeva,SP
+11,Jandira,SP
+11,Jundiaí,SP
+11,Juquitiba,SP
+11,Mairiporã,SP
+11,Mauá,SP
+11,Mogi das Cruzes,SP
+11,Osasco,SP
+11,Pirapora do Bom Jesus,SP
+11,Poá,SP
+11,Ribeirão Pires,SP
+11,Rio Grande da Serra,SP
+11,Salesópolis,SP
+11,Santa Isabel,SP
+11,Santana de Parnaíba,SP
+11,Santo André,SP
+11,São Bernardo do Campo,SP
+11,São Caetano do Sul,SP
+11,São Lourenço da Serra,SP
+11,São Paulo,SP
+11,Suzano,SP
+11,Taboão da Serra,SP
+11,Vargem Grande Paulista,SP
+11,Várzea Paulista,SP
+12,Sao Jose dos Campos,SP
+13,Cubatão,SP
+13,Guarujá,SP
+13,Itanhaém,SP
+13,Mongaguá,SP
+13,Peruíbe,SP
+13,Praia Grande,SP
+13,Santos,SP
+13,São Vicente,SP
+14,Bauru,SP
+14,Jau,SP
+15,Sorocaba,SP
+15,Votorantim,SP
+16,Altinopolis,SP
+16,Américo Brasiliense,SP
+16,Aramina,SP
+16,Araraquara,SP
+16,Batatais,SP
+16,Brodowski,SP
+16,Buritizal,SP
+16,Cajuru,SP
+16,Cassia dos Coqueiros,SP
+16,Cravinhos,SP
+16,Franca,SP
+16,Guara,SP
+16,Ipua,SP
+16,Ituverava,SP
+16,Jaboticabal,SP
+16,Jardinopolis,SP
+16,Matao,SP
+16,Miguelopolis,SP
+16,Morro Agudo,SP
+16,Nuporanga,SP
+16,Orlandia,SP
+16,Ribeirao Corrente,SP
+16,Ribeirao Preto,SP
+16,Sales Oliveira,SP
+16,Santa Cruz da Esperanca,SP
+16,Santo Antonio da Alegria,SP
+16,Sao Carlos,SP
+16,Sao Joaquim da Barra,SP
+16,Sertaozinho,SP
+17,Catanduva,SP
+17,Colombia,SP
+17,Guaira,SP
+17,Sao Jose do Rio Preto,SP
+19,Americana,SP
+19,Araras,SP
+19,Artur Nogueira,SP
+19,Campinas,SP
+19,Cosmopolis,SP
+19,Engenheiro Coelho,SP
+19,Holambra,SP
+19,Hortolandia,SP
+19,Indaiatuba,SP
+19,Jaguariuna,SP
+19,Limeira,SP
+19,Louveira,SP
+19,Monte Mor,SP
+19,Nova Odessa,SP
+19,Paulinia,SP
+19,Pedreira,SP
+19,Piracicaba,SP
+19,Santa Barbara D Oeste,SP
+19,Santo Antonio da Posse,SP
+19,Sumare,SP
+19,Valinhos,SP
+19,Vinhedo,SP
+21,Belford Roxo,RJ
+21,Duque de Caxias,RJ
+21,Guapimirim,RJ
+21,Itaboraí,RJ
+21,Japeri,RJ
+21,Magé,RJ
+21,Maricá,RJ
+21,Mesquita,RJ
+21,Nilópolis,RJ
+21,Niterói,RJ
+21,Nova Iguaçu,RJ
+21,Paracambi,RJ
+21,Queimados,RJ
+21,Rio de Janeiro,RJ
+21,São Gonçalo,RJ
+21,São João de Meriti,RJ
+21,Seropédica,RJ
+21,Tanguá,RJ
+22,Campo dos Goytacazes,RJ
+22,Macae,RJ
+22,Nova Friburgo,RJ
+24,Volta Redonda,RJ
+27,Cariacica,ES
+27,Colatina,ES
+27,Fundão,ES
+27,Guarapari,ES
+27,Linhares,ES
+27,Serra,ES
+27,Viana,ES
+27,Vila Velha,ES
+27,Vitória,ES
+31,Baldim,MG
+31,Belo Horizonte,MG
+31,Betim,MG
+31,Brumadinho,MG
+31,Caeté,MG
+31,Capim Branco,MG
+31,Confins,MG
+31,Contagem,MG
+31,Coronel Fabriciano,MG
+31,Esmeraldas,MG
+31,Florestal,MG
+31,Ibirité,MG
+31,Igarapé,MG
+31,Ipatinga,MG
+31,Itatiaiuçu,MG
+31,Jaboticatubas,MG
+31,Juatuba,MG
+31,Lagoa Santa,MG
+31,Mário Campos,MG
+31,Mateus Leme,MG
+31,Matozinhos,MG
+31,Nova Lima,MG
+31,Nova União,MG
+31,Pedro Leopoldo,MG
+31,Raposos,MG
+31,Ribeirão das Neves,MG
+31,Rio Acima,MG
+31,Rio Manso,MG
+31,Sabará,MG
+31,Santa Luzia,MG
+31,São Joaquim de Bicas,MG
+31,São José da Lapa,MG
+31,Sarzedo,MG
+31,Sete Lagoas,MG
+31,Taquaraçu de Minas,MG
+31,Vespasiano,MG
+32,Juiz de Fora,MG
+32,Matias Barbosa,MG
+33,Governador Valadares,MG
+34,Araguari,MG
+34,Arapora,MG
+34,Araxa,MG
+34,Cachoeira Dourada,MG
+34,Campina Verde,MG
+34,Campo Florido,MG
+34,Canapolis,MG
+34,Capinopolis,MG
+34,Carmo do Paranaiba,MG
+34,Carneirinho,MG
+34,Centralina,MG
+34,Comendador Gomes,MG
+34,Conceicao das Alagoas,MG
+34,Coromandel,MG
+34,Cruzeiro da Fortaleza,MG
+34,Delta,MG
+34,Frutal,MG
+34,Gurinhata,MG
+34,Ibia,MG
+34,Indianopolis,MG
+34,Ipiacu,MG
+34,Itapagipe,MG
+34,Ituiutaba,MG
+34,Iturama,MG
+34,Lagamar,MG
+34,Lagoa Formosa,MG
+34,Lagoa Grande,MG
+34,Limeira do Oeste,MG
+34,Monte Alegre de Minas,MG
+34,Monte Carmelo,MG
+34,Nova Ponte,MG
+34,Patos de Minas,MG
+34,Patrocinio,MG
+34,Pedrinopolis,MG
+34,Perdizes,MG
+34,Pirajuba,MG
+34,Planura,MG
+34,Prata,MG
+34,Presidente Olegario,MG
+34,Rio Paranaiba,MG
+34,Sacramento,MG
+34,Santa Juliana,MG
+34,Santa Vitoria,MG
+34,Sao Francisco de Sales,MG
+34,Sao Gotardo,MG
+34,Tupaciguara,MG
+34,Uberaba,MG
+34,Uberlandia,MG
+34,Uniao de Minas,MG
+34,Vazante,MG
+35,Ibiraci,MG
+35,Monte Santo de Minas,MG
+37,Abaete,MG
+37,Araujos,MG
+37,Bom Despacho,MG
+37,Campos Altos,MG
+37,Carmo do Cajuru,MG
+37,Claudio,MG
+37,Corrego Danta,MG
+37,Divinopolis,MG
+37,Igaratinga,MG
+37,Iguatama,MG
+37,Itapecerica,MG
+37,Itauna,MG
+37,Luz,MG
+37,Maravilhas,MG
+37,Moema,MG
+37,Nova Serrana,MG
+37,Oliveira,MG
+37,Papagaios,MG
+37,Para de Minas,MG
+37,Pequi,MG
+37,Perdigao,MG
+37,Pitangui,MG
+37,Pompeu,MG
+37,Santo Antonio do Monte,MG
+37,Sao Jose da Varginha,MG
+38,Joao Pinheiro,MG
+38,Montes Claros,MG
+38,Paracatu,MG
+41,Adrianópolis,PR
+41,Agudos do Sul,PR
+41,Almirante Tamandaré,PR
+41,Araucária,PR
+41,Balsa Nova,PR
+41,Bocaiúva do Sul,PR
+41,Campina Grande do Sul,PR
+41,Campo Largo,PR
+41,Campo Magro,PR
+41,Cerro Azul,PR
+41,Colombo,PR
+41,Contenda,PR
+41,Curitiba,PR
+41,Doutor Ulysses,PR
+41,Fazenda Rio Grande,PR
+41,Itaperuçu,PR
+41,Lapa,PR
+41,Mandirituba,PR
+41,Paranaguá,PR
+41,Pinhais,PR
+41,Piraquara,PR
+41,Quatro Barras,PR
+41,Quitandinha,PR
+41,Rio Branco do Sul,PR
+41,São José dos Pinhais,PR
+41,Tijucas do Sul,PR
+41,Tunas do Paraná,PR
+42,Guarapuava,PR
+42,Ponta Grossa,PR
+43,Apucarana,PR
+43,Arapongas,PR
+43,Bela Vista do Paraíso,PR
+43,Cambé,PR
+43,Ibiporã,PR
+43,Jataizinho,PR
+43,Londrina,PR
+43,Rolândia,PR
+43,Sertanópolis,PR
+43,Tamarana,PR
+44,Ângulo,PR
+44,Astorga,PR
+44,Atalaia,PR
+44,Campo Mourão,PR
+44,Cianorte,PR
+44,Doutor Camargo,PR
+44,Floraí,PR
+44,Floresta,PR
+44,Flórida,PR
+44,Iguaraçu,PR
+44,Itambé,PR
+44,Ivatuba,PR
+44,Lobato,PR
+44,Mandaguaçu,PR
+44,Mandaguari,PR
+44,Marialva,PR
+44,Maringá,PR
+44,Munhoz de Melo,PR
+44,Ourizona,PR
+44,Paiçandu,PR
+44,Paranavaí,PR
+44,Presidente Castelo Branco,PR
+44,Santa Fé,PR
+44,São Jorge do Ivaí,PR
+44,Sarandi,PR
+44,Umuarama,PR
+45,Cascavel,PR
+45,Foz do Iguaçu,PR
+45,Toledo,PR
+46,Francisco Beltrão,PR
+46,Pato Branco,PR
+47,Apiúna,SC
+47,Araquari,SC
+47,Ascurra,SC
+47,Balneário Barra do Sul,SC
+47,Balneário Camboriú,SC
+47,Balneario Picarras,SC
+47,Barra Velha,SC
+47,Benedito Novo,SC
+47,Blumenau,SC
+47,Bombinhas,SC
+47,Botuverá,SC
+47,Brusque,SC
+47,Camboriú,SC
+47,Campo Alegre,SC
+47,Corupá,SC
+47,Doutor Pedrinho,SC
+47,Garuva,SC
+47,Gaspar,SC
+47,Guabiruba,SC
+47,Guaramirim,SC
+47,Ilhota,SC
+47,Indaial,SC
+47,Itaiópolis,SC
+47,Itajaí,SC
+47,Itapema,SC
+47,Itapoá,SC
+47,Jaraguá do Sul,SC
+47,Joinville,SC
+47,Luiz Alves,SC
+47,Mafra,SC
+47,Massaranduba,SC
+47,Navegantes,SC
+47,Papanduva,SC
+47,Penha,SC
+47,Pomerode,SC
+47,Porto Belo,SC
+47,Rio dos Cedros,SC
+47,Rio Negrinho,SC
+47,Rodeio,SC
+47,São Bento do Sul,SC
+47,São Francisco do Sul,SC
+47,Schroeder,SC
+47,Timbó,SC
+48,Águas Mornas,SC
+48,Alfredo Wagner,SC
+48,Angelina,SC
+48,Anitápolis,SC
+48,Antônio Carlos,SC
+48,Araranguá,SC
+48,Armazém,SC
+48,Balneário Arroio do Silva,SC
+48,Balneário Gaivota,SC
+48,Biguaçu,SC
+48,Braço do Norte,SC
+48,Canelinha,SC
+48,Capivari de Baixo,SC
+48,Cocal do Sul,SC
+48,Criciúma,SC
+48,Ermo,SC
+48,Florianópolis,SC
+48,Forquilhinha,SC
+48,Garopaba,SC
+48,Governador Celso Ramos,SC
+48,Grão Pará,SC
+48,Gravatal,SC
+48,Içara,SC
+48,Imaruí,SC
+48,Imbituba,SC
+48,Jacinto Machado,SC
+48,Jaguaruna,SC
+48,Laguna,SC
+48,Lauro Muller,SC
+48,Leoberto Leal,SC
+48,Major Gercino,SC
+48,Maracajá,SC
+48,Meleiro,SC
+48,Morro da Fumaça,SC
+48,Morro Grande,SC
+48,Nova Trento,SC
+48,Orleans,SC
+48,Palhoça,SC
+48,Passo de Torres,SC
+48,Paulo Lopes,SC
+48,Pedras Grandes,SC
+48,Praia Grande,SC
+48,Rancho Queimado,SC
+48,Rio Fortuna,SC
+48,Sangão,SC
+48,Santa Rosa de Lima,SC
+48,Santa Rosa do Sul,SC
+48,Santo Amaro da Imperatriz,SC
+48,São Bonifácio,SC
+48,São João Batista,SC
+48,São João do Sul,SC
+48,São José,SC
+48,São Ludgero,SC
+48,São Martinho,SC
+48,São Pedro de Alcântara,SC
+48,Siderópolis,SC
+48,Sombrio,SC
+48,Tijucas,SC
+48,Timbé do Sul,SC
+48,Treviso,SC
+48,Treze de Maio,SC
+48,Tubarão,SC
+48,Turvo,SC
+48,Urussanga,SC
+49,Lages,SC
+51,Alvorada,RS
+51,Araricá,RS
+51,Arroio dos Ratos,RS
+51,Barra do Ribeiro,RS
+51,Cachoeirinha,RS
+51,Campo Bom,RS
+51,Canoas,RS
+51,Capela de Santana,RS
+51,Charqueadas,RS
+51,Dois Irmãos,RS
+51,Eldorado do Sul,RS
+51,Estância Velha,RS
+51,Esteio,RS
+51,Glorinha,RS
+51,Gravataí,RS
+51,Guaíba,RS
+51,Ivoti,RS
+51,Montenegro,RS
+51,Nova Hartz,RS
+51,Nova Santa Rita,RS
+51,Novo Hamburgo,RS
+51,Parobé,RS
+51,Portão,RS
+51,Porto Alegre,RS
+51,Santa Cruz do Sul,RS
+51,Santo Antônio da Patrulha,RS
+51,São Jerônimo,RS
+51,São Leopoldo,RS
+51,Sapiranga,RS
+51,Sapucaia do Sul,RS
+51,Taguara,RS
+51,Triunfo,RS
+51,Viamão,RS
+53,Arroio do Padre,RS
+53,Capão do Leão,RS
+53,Morro Redondo,RS
+53,Pelotas,RS
+53,Rio Grande,RS
+53,Turuçu,RS
+54,Bento Gonçalves,RS
+54,Caxias do Sul,RS
+54,Erechim,RS
+54,Farroupilha,RS
+54,Passo Fundo,RS
+55,Santa Maria,RS
+61,Águas Lindas de Goiás,GO
+61,Brasilandia,DF
+61,Brasília,DF
+61,Cabeceiras,GO
+61,Cidade Ocidental,GO
+61,Cristalina,GO
+61,Formosa,GO
+61,Luziânia,GO
+61,Novo Gama,GO
+61,Padre Bernardo,GO
+61,Planaltina,GO
+61,Santo Antônio do Descoberto,GO
+61,Valparaíso de Goiás,GO
+62,Abadia de Goiás,GO
+62,Anápolis,GO
+62,Aparecida de Goiânia,GO
+62,Aragoiânia,GO
+62,Bela Vista de Goiás,GO
+62,Brazabrantes,GO
+62,Caldazinha,GO
+62,Caturaí,GO
+62,Goianápolis,GO
+62,Goiânia,GO
+62,Goianira,GO
+62,Guapó,GO
+62,Hidrolândia,GO
+62,Inhumas,GO
+62,Nerópolis,GO
+62,Nova Veneza,GO
+62,Santo Antônio de Goiás,GO
+62,Senador Canedo,GO
+62,Terezópolis de Goiás,GO
+62,Trindade,GO
+63,Palmas,TO
+64,Buriti Alegre,GO
+64,Cachoeira Dourada,GO
+64,Caldas Novas,GO
+64,Inaciolandia,GO
+64,Itumbiara,GO
+64,Paranaiguara,GO
+64,Quirinopolis,GO
+64,Rio Quente,GO
+64,Rio Verde,GO
+64,Sao Simao,GO
+65,Cuiabá,MT
+65,Nossa Senhora do Livramento,MT
+65,Santo Antônio do Leverger,MT
+65,Várzea Grande,MT
+66,Rondonopolis,MT
+67,Campo Grande,MS
+67,Dourados,MS
+67,Paranaiba,MS
+68,Rio Branco,AC
+69,Porto Velho,RO
+71,Camacari,BA
+71,Candeias,BA
+71,Dias D'Avila,BA
+71,Itaparica,BA
+71,Lauro de Freitas,BA
+71,Madre de Deus,BA
+71,Mata de São João,BA
+71,Pojuca,BA
+71,Salvador,BA
+71,São Francisco do Conde,BA
+71,São Sebastião do Passé,BA
+71,Simões Filho,BA
+71,Vera Cruz,BA
+79,Aracaju,SE
+81,Abreu e Lima,PE
+81,Araçoiaba,PE
+81,Cabo de Santo Agostinho,PE
+81,Camaragibe,PE
+81,Caruaru,PE
+81,Igarassu,PE
+81,Ilha de Itamaracá,PE
+81,Ipojuca,PE
+81,Itapissuma,PE
+81,Jaboatão dos Guararapes,PE
+81,Moreno,PE
+81,Olinda,PE
+81,Paulista,PE
+81,Recife,PE
+81,São Lourenço da Mata,PE
+81,Vitória de Santo Antão,PE
+82,Maceio,AL
+83,Alagoa Nova,PB
+83,Alhandra,PB
+83,Areial,PB
+83,Aroeiras,PB
+83,Barra de Santana,PB
+83,Bayeux,PB
+83,Boa Vista,PB
+83,Boqueirão,PB
+83,Caaporã,PB
+83,Cabedelo,PB
+83,Campina Grande,PB
+83,Caturité,PB
+83,Conde,PB
+83,Cruz do Espírito Santo,PB
+83,Esperança,PB
+83,Fagundes,PB
+83,Gado Bravo,PB
+83,Ingá,PB
+83,Itatuba,PB
+83,João Pessoa,PB
+83,Lagoa Seca,PB
+83,Lucena,PB
+83,Mamanguape,PB
+83,Massaranduba,PB
+83,Matinhas,PB
+83,Montadas,PB
+83,Pitimbu,PB
+83,Pocinhos,PB
+83,Puxinanã,PB
+83,Queimadas,PB
+83,Riachão do Bacamarte,PB
+83,Rio Tinto,PB
+83,Santa Rita,PB
+83,São Sebastião de Lagoa de Roca,PB
+83,Serra Redonda,PB
+84,Natal,RN
+85,Aquiraz,CE
+85,Cascavel,CE
+85,Caucaia,CE
+85,Chorozinho,CE
+85,Eusébio,CE
+85,Fortaleza,CE
+85,Guaiúba,CE
+85,Horizonte,CE
+85,Itaitinga,CE
+85,Maracanaú,CE
+85,Maranguape,CE
+85,Pacajus,CE
+85,Pacatuba,CE
+85,Pindoretama,CE
+85,São Gonçalo do Aramante,CE
+91,Belém,PA
+98,São Luís,MA
