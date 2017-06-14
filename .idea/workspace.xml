@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd5be706-ff0b-4599-901d-9a2bdc435720" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/2016-(12)-December.pdf" afterPath="$PROJECT_DIR$/reports/2016-(12)-December.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/2017-(01)-January.pdf" afterPath="$PROJECT_DIR$/reports/2017-(01)-January.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/2017-(02)-February.pdf" afterPath="$PROJECT_DIR$/reports/2017-(02)-February.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/2017-(03)-March.pdf" afterPath="$PROJECT_DIR$/reports/2017-(03)-March.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/2017-(04)-April.pdf" afterPath="$PROJECT_DIR$/reports/2017-(04)-April.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/helpdesk.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/helpdesk.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/relatorioTelefonia.py" afterPath="$PROJECT_DIR$/relatorioTelefonia.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,30 +19,22 @@
       <file leaf-file-name="relatorioTelefonia.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="508" column="38" lean-forward="false" selection-start-line="508" selection-start-column="38" selection-end-line="508" selection-end-column="38" />
+            <state relative-caret-position="143">
+              <caret line="474" column="8" lean-forward="true" selection-start-line="474" selection-start-column="8" selection-end-line="474" selection-end-column="8" />
               <folding>
                 <element signature="e#23#52#0" expanded="true" />
-                <element signature="e#746#950#0" expanded="false" />
-                <element signature="e#952#981#0" expanded="false" />
-                <element signature="e#1164#1625#0" expanded="false" />
-                <element signature="e#1904#1911#0" expanded="false" />
-                <element signature="e#2103#2642#0" expanded="false" />
-                <element signature="e#3491#4016#0" expanded="false" />
-                <element signature="e#4038#8416#0" expanded="false" />
-                <element signature="e#8549#8766#0" expanded="false" />
-                <element signature="e#8785#8940#0" expanded="false" />
-                <element signature="e#8968#11762#0" expanded="false" />
-                <element signature="e#11764#11784#0" expanded="false" />
-                <element signature="e#12082#12750#0" expanded="false" />
-                <element signature="e#12887#14911#0" expanded="false" />
-                <element signature="e#15023#22604#0" expanded="false" />
-                <element signature="e#22663#23865#0" expanded="false" />
-                <element signature="e#23928#24071#0" expanded="false" />
-                <element signature="e#24914#24934#0" expanded="false" />
-                <element signature="e#25751#25781#0" expanded="false" />
-                <element signature="e#31001#31135#0" expanded="false" />
-                <element signature="e#31226#31235#0" expanded="false" />
+                <element signature="e#621#769#0" expanded="false" />
+                <element signature="e#786#990#0" expanded="false" />
+                <element signature="e#992#1021#0" expanded="false" />
+                <element signature="e#1204#1665#0" expanded="false" />
+                <element signature="e#1944#1951#0" expanded="false" />
+                <element signature="e#2143#2682#0" expanded="false" />
+                <element signature="e#3561#4050#0" expanded="false" />
+                <element signature="e#8351#8584#0" expanded="false" />
+                <element signature="e#8603#8764#0" expanded="false" />
+                <element signature="e#8792#10923#0" expanded="false" />
+                <element signature="e#10925#10945#0" expanded="false" />
+                <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
               </folding>
             </state>
           </provider>
@@ -64,7 +53,6 @@
     <findStrings>
       <find>string</find>
       <find>_string</find>
-      <find>PATTERN_EXTENSION</find>
       <find>find</find>
       <find>ReturnCodes</find>
       <find>tig</find>
@@ -75,6 +63,22 @@
       <find>figDestinationMinutes</find>
       <find>route_plot</find>
       <find>p</find>
+      <find>PATTERN_EXTENSION</find>
+      <find>EXTENSION</find>
+      <find>INTERNACIONAL</find>
+      <find>INTERNA</find>
+      <find>FIXO DEMAIS REGIOES</find>
+      <find>CELULAR SP</find>
+      <find>NUMERO 2 DIGITOS</find>
+      <find>NUMERO 5 DIGITOS</find>
+      <find>Valm</find>
+      <find>billsecInMinutes</find>
+      <find>callType</find>
+      <find>calldate</find>
+      <find>billsec</find>
+      <find>dst</find>
+      <find>dstchannel</find>
+      <find>date_formatter</find>
     </findStrings>
     <replaceStrings>
       <replace>Billsec</replace>
@@ -84,6 +88,25 @@
       <replace>group_trunk_minutes</replace>
       <replace>fig_destination_minutes</replace>
       <replace>value</replace>
+      <replace>Internacional</replace>
+      <replace>Interna</replace>
+      <replace>Fixo RJ</replace>
+      <replace>Fixo SP</replace>
+      <replace>Cell RJ</replace>
+      <replace>Fixo DDD</replace>
+      <replace>Cell SP</replace>
+      <replace>Numero 1 Digito</replace>
+      <replace>Numero 2 Digitos</replace>
+      <replace>Numero 3 Digitos</replace>
+      <replace>Numero 5 Digitos</replace>
+      <replace>billMinutes</replace>
+      <replace>callRoute</replace>
+      <replace>callDate</replace>
+      <replace>callSec</replace>
+      <replace>billSec</replace>
+      <replace>callDest</replace>
+      <replace>trunkUsed</replace>
+      <replace>calldate_formatter</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -338,12 +361,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1256584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17683686" sideWeight="0.50564337" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20051414" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30205655" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31527627" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31923077" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46153846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42673522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -393,7 +416,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -404,26 +427,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -434,26 +449,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -464,26 +471,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -494,26 +493,40 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -526,26 +539,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -556,26 +561,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -586,26 +583,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -616,26 +605,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -646,26 +627,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -676,26 +649,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -706,26 +671,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -736,26 +693,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -766,26 +715,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -796,26 +737,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -826,26 +759,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -856,26 +781,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -886,26 +803,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -916,26 +825,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -946,26 +847,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -976,26 +869,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1006,26 +891,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1036,26 +913,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1066,26 +935,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1124,26 +985,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1219,30 +1072,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/relatorioTelefonia.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="508" column="38" lean-forward="false" selection-start-line="508" selection-start-column="38" selection-end-line="508" selection-end-column="38" />
+        <state relative-caret-position="143">
+          <caret line="474" column="8" lean-forward="true" selection-start-line="474" selection-start-column="8" selection-end-line="474" selection-end-column="8" />
           <folding>
             <element signature="e#23#52#0" expanded="true" />
-            <element signature="e#746#950#0" expanded="false" />
-            <element signature="e#952#981#0" expanded="false" />
-            <element signature="e#1164#1625#0" expanded="false" />
-            <element signature="e#1904#1911#0" expanded="false" />
-            <element signature="e#2103#2642#0" expanded="false" />
-            <element signature="e#3491#4016#0" expanded="false" />
-            <element signature="e#4038#8416#0" expanded="false" />
-            <element signature="e#8549#8766#0" expanded="false" />
-            <element signature="e#8785#8940#0" expanded="false" />
-            <element signature="e#8968#11762#0" expanded="false" />
-            <element signature="e#11764#11784#0" expanded="false" />
-            <element signature="e#12082#12750#0" expanded="false" />
-            <element signature="e#12887#14911#0" expanded="false" />
-            <element signature="e#15023#22604#0" expanded="false" />
-            <element signature="e#22663#23865#0" expanded="false" />
-            <element signature="e#23928#24071#0" expanded="false" />
-            <element signature="e#24914#24934#0" expanded="false" />
-            <element signature="e#25751#25781#0" expanded="false" />
-            <element signature="e#31001#31135#0" expanded="false" />
-            <element signature="e#31226#31235#0" expanded="false" />
+            <element signature="e#621#769#0" expanded="false" />
+            <element signature="e#786#990#0" expanded="false" />
+            <element signature="e#992#1021#0" expanded="false" />
+            <element signature="e#1204#1665#0" expanded="false" />
+            <element signature="e#1944#1951#0" expanded="false" />
+            <element signature="e#2143#2682#0" expanded="false" />
+            <element signature="e#3561#4050#0" expanded="false" />
+            <element signature="e#8351#8584#0" expanded="false" />
+            <element signature="e#8603#8764#0" expanded="false" />
+            <element signature="e#8792#10923#0" expanded="false" />
+            <element signature="e#10925#10945#0" expanded="false" />
+            <marker date="1497472567378" expanded="false" signature="24846:25035" ph="..." />
           </folding>
         </state>
       </provider>
