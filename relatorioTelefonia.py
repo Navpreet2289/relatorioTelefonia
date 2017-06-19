@@ -476,7 +476,7 @@ print df_call
 
 print 'Agrupando minutos por data...'
 group_day_minutes = df_call.groupby(['callDate', 'callType'])['billMinutes'].sum()
-print group_day_minutes
+# print group_day_minutes
 # group_day_minutes_internal = df_call[df_call['callRoute'] == 'Interna'].groupby(['callDate'])['billMinutes'].sum()
 # print group_day_minutes_external['billMinutes']
 # print group_day_minutes_internal
@@ -511,6 +511,19 @@ plt.title('Minutos Diarios', fontsize=20)
 plt.ylabel('Minutos', fontsize=16)
 plt.xlabel('Dias', fontsize=16, verticalalignment='top', horizontalalignment='center')
 plt.text(0, 601, output_pdf_name)
+xlabels = [item.get_text() for item in ax.get_xticklabels()]
+new_xlabels = []
+for i in range(0, len(xlabels)):
+    date_label = xlabels[i][:xlabels[i].find(',')]
+    if date_label in new_xlabels:
+        new_xlabels.append(date_label)
+        new_xlabels[len(new_xlabels) - 2] = ''
+        new_xlabels[len(new_xlabels) - 1] = date_label
+    else:
+        new_xlabels.append(date_label)
+ax.set_xticklabels(new_xlabels)
+print xlabels
+print new_xlabels
 bars = ax.patches
 # Center bar values:
 for bar in bars:
